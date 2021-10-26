@@ -16,4 +16,4 @@ Desarrollar un mapa de calor indexando datos de diversas fuentes, que permita an
 
 
   # Herramientas
-La [Herramientas](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Metodologia) utilizadas para el desarrollo fueron basadas en la nube de [Microsoft Azure](https://azure.microsoft.com/es-es/)
+La [Herramientas](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Metodologia) utilizadas para el desarrollo fueron basadas en la nube de [Microsoft Azure](https://azure.microsoft.com/es-es/) y las aplicaciones proporsionadas fueron acorde a las necesidades para ejecutar el proyecto
