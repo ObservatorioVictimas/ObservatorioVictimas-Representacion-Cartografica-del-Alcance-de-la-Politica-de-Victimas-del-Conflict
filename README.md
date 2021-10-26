@@ -14,3 +14,5 @@ Desarrollar un mapa de calor indexando datos de diversas fuentes, que permita an
 4) Comparar mediante los mapas de calor la efectividad de las políticas de víctimas Vs. su segmentación por ubicación. 
 4) Identificar la migración urbana de las víctimas. 
 $ cd ~/<your-pythonanywhere-domain>.pythonanywhere.com
+
+  # Metodologia
