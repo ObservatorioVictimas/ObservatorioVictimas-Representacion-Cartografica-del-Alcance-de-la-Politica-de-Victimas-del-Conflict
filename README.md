@@ -16,4 +16,4 @@ Desarrollar un mapa de calor indexando datos de diversas fuentes, que permita an
 $ cd ~/<your-pythonanywhere-domain>.pythonanywhere.com
 
   # Metodologia
-blasdsdj askdjsadjsad [link text](.Metodologia/Readme.md)
+blasdsdj askdjsadjsad [Metodologia](./.Metodologia/Readme.md)
