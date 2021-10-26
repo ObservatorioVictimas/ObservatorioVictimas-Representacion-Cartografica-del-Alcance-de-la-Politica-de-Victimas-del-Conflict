@@ -16,4 +16,4 @@ Desarrollar un mapa de calor indexando datos de diversas fuentes, que permita an
 $ cd ~/<your-pythonanywhere-domain>.pythonanywhere.com
 
   # Metodologia
-blasdsdj askdjsadjsad [Metodologia](./.Metodologia/Readme.md)
+blasdsdj askdjsadjsad [Metodologia](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Metodologia)
