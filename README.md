@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/93198276/138985146-157ac5a4-5c30-45a9-b7ea-9cde05892757.png)
+
+
 # Representación Cartográfica del Alcance de la Política de Victimas del Conflicto Armado en Bogotá
 Proyecto desarrollado por la Alta Consejeria de Paz, Victimas y Reconciliacion mediante  La plataforma [Data Sandbox](https://sandbox.datos.gov.co/#!/inicio) donde es un espacio colaborativo para las entidades públicas del país, en donde se podrán realizar diferentes proyectos piloto de Analítica y Big Data. La plataforma será empleada para explorar conjuntos de datos de manera colaborativa e interactiva entre varios Usuarios del Data Sandbox de una misma Entidad, con el fin de probar, experimentar, ensayar y determinar soluciones aplicables en el contexto real a problemáticas públicas y/o ciudadanas. Esta plataforma cuenta con altas capacidades para el almacenamiento y procesamiento de datos estructurados, no estructurados y semiestructurados, a través del uso de tecnologías de Big Data.
 
