@@ -17,6 +17,8 @@ Desarrollar un mapa de calor indexando datos de diversas fuentes, que permita an
 4) Comparar mediante los mapas de calor la efectividad de las políticas de víctimas Vs. su segmentación por ubicación. 
 4) Identificar la migración urbana de las víctimas. 
 
-
 # [Herramientas](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/blob/main/Herramientas/README.md)
 La Herramientas utilizadas para el desarrollo fueron basadas en la nube de [Microsoft Azure](https://azure.microsoft.com/es-es/) y las aplicaciones proporsionadas fueron acorde a las necesidades para ejecutar el proyecto
+
+# [Arquitectura](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/blob/main/Herramientas/README.md)
+
