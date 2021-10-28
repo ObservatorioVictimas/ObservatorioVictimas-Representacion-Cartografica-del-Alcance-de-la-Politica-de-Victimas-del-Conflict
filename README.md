@@ -37,6 +37,9 @@ La Herramientas utilizadas para el desarrollo fueron basadas en la nube de [Micr
 # Integrantes del proyecto por parte de la Alta Consejeria de Paz, Victimas y Reconciliacion
 
 Mauricio Tellez
+
 Edwin Valero
+
 Juan Carlos Mejia
+
 Cristian Zamudio
