@@ -306,26 +306,4 @@ FROM            Tabla_Servicios INNER JOIN
 WHERE        (Tabla_Servicios.INCLUIDO_RUV IS NULL)
 
 
-UPDATE       Tabla_Servicios
-SET                CEDULA_RUV1 = TablaVictimas.DOCUMENTO, HECHO = TablaCodigoHecho.HECHO, PRIMER_NOMBRE_RUV = TablaVictimas.PRIMERNOMBRE, SEGUNDO_NOMBRE_RUV = TablaVictimas.SEGUNDONOMBRE, 
-                         PRIMER_APELLIDO_RUV = TablaVictimas.PRIMERAPELLIDO, SEGUNDO_APELLIDO_RUV = TablaVictimas.SEGUNDOAPELLIDO, PERTENENCIA_ETNICA1 = TablaVictimas.PERTENENCIAETNICA, 
-                         FECHA_NACIMIENTO_RUV = TablaVictimas.FECHANACIMIENTO
-FROM            TablaCodigoHecho INNER JOIN
-                         TablaHechos ON TablaCodigoHecho.CODIGOHECHO = TablaHechos.CODIGOHECHO INNER JOIN
-                         Tabla_Servicios INNER JOIN
-                         TablaVictimas ON Tabla_Servicios.IDENTIFICADOR = TablaVictimas.IdEducacion ON TablaHechos.CONSPERSONA = TablaVictimas.CONSPERSONA
 
-UPDATE       TablaVictimas
-SET                Colegio = Tabla_Servicios.Colegio, Educacion = N'SI', TIPO_COLEGIO = Tabla_Servicios.TIPO_COLEGIO
-FROM            Tabla_Servicios INNER JOIN
-                         TablaVictimas ON Tabla_Servicios.IDENTIFICADOR = TablaVictimas.IdEducacion
-
-
-UPDATE       Tabla_Servicios
-SET                 CEDULA_CORRECTA = N'SI'
-WHERE        (IDENTIFICACION = CEDULA_RUV)
-
-
-UPDATE       Tabla_Servicios
-SET                 CEDULA_CORRECTA = N'NO'
-WHERE        (IDENTIFICACION <> CEDULA_RUV)
