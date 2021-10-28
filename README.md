@@ -24,3 +24,19 @@ La Herramientas utilizadas para el desarrollo fueron basadas en la nube de [Micr
 
 # [Procesamiento Informacion](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Procesamiento%20Informacion)
 
+1. Datos de Prueba
+2. Cargue Data Lake Storage
+3. Azure Pipelines
+4. Procesamiento de datos
+5. Diccionario de datos
+6. Dashboard power BI
+
+# [Modelo Clustering Azure Machin Learning](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Procesamiento%20Informacion)
+
+# [Presentacion de resultados](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Procesamiento%20Informacion)
+# Integrantes del proyecto por parte de la Alta Consejeria de Paz, Victimas y Reconciliacion
+
+Mauricio Tellez
+Edwin Valero
+Juan Carlos Mejia
+Cristian Zamudio
