@@ -22,5 +22,5 @@ La Herramientas utilizadas para el desarrollo fueron basadas en la nube de [Micr
 
 # [Arquitectura](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Arquitectura)
 
-# [Procesamiento Informacion](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Arquitectura)
+# [Procesamiento Informacion](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Procesamiento%20Informacion)
 
