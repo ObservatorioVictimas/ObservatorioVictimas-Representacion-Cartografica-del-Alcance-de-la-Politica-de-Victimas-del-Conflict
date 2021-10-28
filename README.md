@@ -31,7 +31,7 @@ La Herramientas utilizadas para el desarrollo fueron basadas en la nube de [Micr
 5. Diccionario de datos
 6. Dashboard power BI
 
-# [Modelo Clustering Azure Machin Learning](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Procesamiento%20Informacion)
+# [Modelo Clustering Azure Machin Learning](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Modelo%20Clustering)
 
 # [Presentacion de resultados](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Procesamiento%20Informacion)
 # Integrantes del proyecto por parte de la Alta Consejeria de Paz, Victimas y Reconciliacion
