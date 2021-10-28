@@ -1,4 +1,5 @@
 
+
 # Modelo Clustering 
 
 Se crea un Archivo de las personas que han sido desplazadas ha Bogota y se identifica de esa poblacion cual esta resideindo a corte de 1 de septiembre
@@ -12,5 +13,8 @@ K-Means es un algoritmo no supervisado de Clustering. El algoritmo trabaja itera
 Los “centroids” de cada grupo que serán unas “coordenadas” de cada uno de los K conjuntos que se utilizarán para poder etiquetar nuevas muestras.
 Etiquetas para el conjunto de datos de entrenamiento. Cada etiqueta perteneciente a uno de los K grupos formados.
 Los grupos se van definiendo de manera “orgánica”, es decir que se va ajustando su posición en cada iteración del proceso, hasta que converge el algoritmo. Una vez hallados los centroids deberemos analizarlos para ver cuales son sus características únicas, frente a la de los otros grupos. Estos grupos son las etiquetas que genera el algoritmo.
+
+
+[Fuente de Datos.csv](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/files/7434533/Desplazamiento.csv)
 
 
