@@ -1,0 +1,47 @@
+[
+  {
+    "PERTENENCIAETNICA": 5,
+    "CODDANEMUNICIPIOOCURRENCIA": 25839,
+    "DISCAPACIDAD": 1,
+    "EDADHECHO": 77,
+    "MunicipioActual": 1,
+    "Edad": 95,
+    "TIPODESPLAZAMIENTO_mod": 0,
+    "GENERO_cod": 3.0,
+    "RELACION_cod": 3,
+    "MesAnioOcurrencia": 200209,
+    "Assignments": 1,
+    "DistancesToClusterCenter no.0": 1.8997813005166795,
+    "DistancesToClusterCenter no.1": 1.724082528835975
+  },
+  {
+    "PERTENENCIAETNICA": 5,
+    "CODDANEMUNICIPIOOCURRENCIA": 25839,
+    "DISCAPACIDAD": 1,
+    "EDADHECHO": 77,
+    "MunicipioActual": 1,
+    "Edad": 95,
+    "TIPODESPLAZAMIENTO_mod": 0,
+    "GENERO_cod": 3.0,
+    "RELACION_cod": 11,
+    "MesAnioOcurrencia": 200201,
+    "Assignments": 1,
+    "DistancesToClusterCenter no.0": 1.9917038053703762,
+    "DistancesToClusterCenter no.1": 1.8229782325832393
+  },
+  {
+    "PERTENENCIAETNICA": 3,
+    "CODDANEMUNICIPIOOCURRENCIA": 20400,
+    "DISCAPACIDAD": 0,
+    "EDADHECHO": 79,
+    "MunicipioActual": 0,
+    "Edad": 95,
+    "TIPODESPLAZAMIENTO_mod": 0,
+    "GENERO_cod": 0.0,
+    "RELACION_cod": 3,
+    "MesAnioOcurrencia": 200410,
+    "Assignments": 0,
+    "DistancesToClusterCenter no.0": 1.1291585581912145,
+    "DistancesToClusterCenter no.1": 1.3367389646098755
+  }
+]
