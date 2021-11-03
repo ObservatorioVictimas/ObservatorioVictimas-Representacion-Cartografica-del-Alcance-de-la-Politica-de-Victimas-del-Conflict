@@ -24,18 +24,15 @@ Este archivo contiene la información de la población que se identifico desplaz
 
 | Campo | Descripción  |
 | :----- | :--- | 
-| PertenenciaEtnica | 
-|eee  | 
-|MunicipioOcurrencia  | 
-| uu | 
-| Discapacidad | 
-| oo | 
-| EdadHecho |
-| uu | 
-| MunicipioActual |
-| oo | 
-| Edad |
-| hh | 
+| PertenenciaEtnica | Pertenencia Etnica de la persona que sufrio el hecho de desplazamiento  | 
+|MunicipioOcurrencia  |  Municipio donde se genero el hecho de desplzamiento, es de recordar que solo analizamos los desplazaientos ocurridos hacia la ciudad de Bogota | 
+| Discapacidad |  Este campo nos indica si la persona sufre de algun tipo de discapacidad, 0 si no sufre ninguna discapacidad y 1 si sufre de algna discapacidad | 
+| EdadHecho | Edad al la persona sufrio el hecho de desplazamieno | 
+| MunicipioActual | 1 si la persona actualmente vive en Bogota o 0 si la persona vive en un municipio diferente a Bogota | 
+| Edad | Edaad actual de la persona que sufruio el hecho de desplazamiento | 
+| TipoDesplazamiento | Si en el municipio que se genero el desplazamiento, se desplazaron mas de 50 personas en el rango de un mes tiene una marca de 1 o por lo contrario tiene una marca de cero | 
+| Genero | EL genero al que pertenece la persona 1 masculino, 2 femenino y 3 trangenerista | 
+| MesAñoOcurrencia | Este campo identifica la union de mes y año ocurrencia en formato numero | 
 
 # Resultados
 
