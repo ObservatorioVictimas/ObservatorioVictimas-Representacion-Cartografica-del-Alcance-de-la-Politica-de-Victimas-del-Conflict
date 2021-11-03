@@ -21,6 +21,13 @@ Este archivo contiene la información de la población que se identifico desplaz
 [Fuente de Datos.csv](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/files/7434533/Desplazamiento.csv)
 
 # Diccionario de datos
+| Campo | Descripción  |
+| :----- | :--- | 
+|  | 
+|  | 
+|  | 
+|  | 
+|  | 
 
 # Resultados
 
