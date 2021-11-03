@@ -2,7 +2,7 @@
 
 # Modelo Clustering 
 
-Se crea un Archivo de las personas que han sido desplazadas ha Bogota y se identifica de esa poblacion cual esta resideindo a corte de 1 de septiembre
+Se crea un Archivo de las personas que han sido desplazadas ha Bogota y se identifica de esa población cual esta residiendo a corte de 1 de septiembre
 
 ![image](https://user-images.githubusercontent.com/93198276/139264347-9fdd4829-da0f-4356-bc62-3900f0ab243f.png)
 
@@ -14,7 +14,16 @@ Los “centroids” de cada grupo que serán unas “coordenadas” de cada uno 
 Etiquetas para el conjunto de datos de entrenamiento. Cada etiqueta perteneciente a uno de los K grupos formados.
 Los grupos se van definiendo de manera “orgánica”, es decir que se va ajustando su posición en cada iteración del proceso, hasta que converge el algoritmo. Una vez hallados los centroids deberemos analizarlos para ver cuales son sus características únicas, frente a la de los otros grupos. Estos grupos son las etiquetas que genera el algoritmo.
 
+# Fuente de datos
+
+Este archivo contiene la información de la población que se identifico desplazada a la ciudad de Bogota y se realizan unas marcas para realizar el modelo de Clustering.
 
 [Fuente de Datos.csv](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/files/7434533/Desplazamiento.csv)
+
+# Diccionario de datos
+
+# Resultados
+
+
 
 
