@@ -24,7 +24,7 @@ Este archivo contiene la información de la población que se identifico desplaz
 
 | Campo | Descripción  |
 | :----- | :--- | 
-|  PertenenciaEtnica| 
+| PertenenciaEtnica | 
 |eee  | 
 |MunicipioOcurrencia  | 
 | uu | 
