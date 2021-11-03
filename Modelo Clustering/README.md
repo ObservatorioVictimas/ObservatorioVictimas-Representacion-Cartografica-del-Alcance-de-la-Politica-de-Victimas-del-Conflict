@@ -34,7 +34,9 @@ Este archivo contiene la información de la población que se identifico desplaz
 | Genero | EL genero al que pertenece la persona 1 masculino, 2 femenino y 3 trangenerista | 
 | MesAñoOcurrencia | Este campo identifica la union de mes y año ocurrencia en formato numero | 
 
-# Resultados
+
+
+
 
 
 
