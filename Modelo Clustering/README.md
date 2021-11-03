@@ -25,17 +25,17 @@ Este archivo contiene la información de la población que se identifico desplaz
 | Campo | Descripción  |
 | :----- | :--- | 
 |  PertenenciaEtnica| 
-|  | 
+|eee  | 
 |MunicipioOcurrencia  | 
-|  | 
+| uu | 
 | Discapacidad | 
-|  | 
+| oo | 
 | EdadHecho |
-|  | 
+| uu | 
 | MunicipioActual |
-|  | 
+| oo | 
 | Edad |
-|  | 
+| hh | 
 
 # Resultados
 
