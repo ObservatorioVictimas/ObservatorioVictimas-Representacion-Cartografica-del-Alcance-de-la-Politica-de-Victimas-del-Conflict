@@ -18,15 +18,22 @@ Los grupos se van definiendo de manera “orgánica”, es decir que se va ajust
 
 Este archivo contiene la información de la población que se identifico desplazada a la ciudad de Bogota y se realizan unas marcas para realizar el modelo de Clustering.
 
-[Fuente de Datos.csv](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/files/7434533/Desplazamiento.csv)
+[Fuente de Datos.csv](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/files/7469118/Desplazamiento.csv)
 
 # Diccionario de datos
 | Campo | Descripción  |
 | :----- | :--- | 
+|  PertenenciaEtnica| 
 |  | 
+|MunicipioOcurrencia  | 
 |  | 
+| Discapacidad | 
 |  | 
+| EdadHecho |
 |  | 
+| MunicipioActual |
+|  | 
+| Edad |
 |  | 
 
 # Resultados
