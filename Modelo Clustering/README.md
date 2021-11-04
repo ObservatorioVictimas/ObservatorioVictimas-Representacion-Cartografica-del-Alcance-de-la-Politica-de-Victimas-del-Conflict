@@ -34,7 +34,7 @@ Este archivo contiene la información de la población que se identifico desplaz
 | Genero | EL genero al que pertenece la persona 1 masculino, 2 femenino y 3 transgénero | 
 | MesAñoOcurrencia | Este campo identifica la unión de mes y año ocurrencia en formato numero |
 
-
+# [Resultados](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Modelo%20Clustering/Resultados)
 
 
 
