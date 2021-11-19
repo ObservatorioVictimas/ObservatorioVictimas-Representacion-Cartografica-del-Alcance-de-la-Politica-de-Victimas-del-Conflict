@@ -35,10 +35,12 @@ La Herramientas utilizadas para el desarrollo fueron basadas en la nube de [Micr
 # [Presentación de resultados](https://github.com/ObservatorioVictimas/ObservatorioVictimas-Representacion-Cartografica-del-Alcance-de-la-Politica-de-Victimas-del-Conflict/tree/main/Presentaci%C3%B3n%20Resultados)
 # Integrantes del proyecto por parte de la Alta Consejeria de Paz, Victimas y Reconciliación
 
-Mauricio Tellez
+Mauricio Tellez: Lider del proyecto 
 
-Edwin Valero
+Edwin Valero: Administrador de base de datos
 
-Juan Carlos Mejia
+Juan Carlos Mejia: Analista de datos y estadisa
 
-Cristian Zamudio
+Cristian Zamudio: Analista de datos y estadisa
+
+Jose Luis Barerra: Ciberseguridad
