@@ -39,8 +39,8 @@ Mauricio Tellez: Lider del proyecto
 
 Edwin Valero: Administrador de base de datos
 
-Juan Carlos Mejia: Analista de datos y estadisa
+Juan Carlos Mejia: Analista de datos y estadista
 
-Cristian Zamudio: Analista de datos y estadisa
+Cristian Zamudio: Analista de datos y estadista
 
 Jose Luis Barerra: Ciberseguridad
